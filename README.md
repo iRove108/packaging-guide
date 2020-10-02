@@ -98,5 +98,4 @@ python
 import python
 ```
 
-
-
+_**Note**: This guide was adapted from the Python Packaging Authority's [Packaging Python Projects tutorial](https://packaging.python.org/tutorials/packaging-projects/)._
