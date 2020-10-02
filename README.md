@@ -16,7 +16,7 @@ The `__init__.py` file will be called by default when the package is imported on
 You can leave the `tests` directory empty for now, but it may become useful in the future when you wish to run unit tests.
 
 # Writing a README
-Your `README.md` should tell users about how to install, use, and contribute to your project. The best projects have READMEs which are original, concise, and compelling. Write a README that only you could've written, but not only you can understand.
+Your `README.md` should tell users about how to install, use, and contribute to your project. The best projects have READMEs which are original, concise, and compelling. Write a README that only you could've written but not only you can understand.
 
 # Licensing your Package
 The LICENSE is where you can post the terms of use for your package. You can find some of the basic features of popular open source licenses [here](https://tldrlegal.com). You can find the full text of each license from the [Open Source Initiative](https://opensource.org/licenses).
